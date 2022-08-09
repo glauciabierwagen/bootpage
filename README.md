@@ -1,14 +1,19 @@
 # Bootpage
-<b> Course IT Women - Front End </b> 
+<b> Course IT Women - Front End </b>
+<br>
+<p align="center">
+  <img src="https://github.com/glauciabierwagen/bootstrap/blob/main/images/readmeimage.png"  heigth="750"/>
+</p>
+
 
 ## Guidelines
-- Creating a CV, a diary or list of favorite things using tags from HTML. 
-- Creating first repository.
+- Practice using Bootstrap by building a simple webpage using this framework.  
 
 ## Extra materials 
 
-- How the internet works: https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work.  (English/Portuguese).
-- How the Web works: https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works. (English/Portuguese).
-- Using Git Bash (for Windows users): https://www.youtube.com/watch?v=oQc-2gsjgDg. (English).
-- W3Schools. <i>  HTML Reference </i>: https://www.w3schools.com/tags/default.asp. 
-- Curso em vídeo. <i> Git e GitHub </i>: https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA (Portuguese Videos).
+- [Bootstrap](https://getbootstrap.com/) (English) 
+- [Bulma](https://bulma.io/) (English) 
+- [Foundation](https://get.foundation/) (English)  
+- [Understanding the Bootstrap Gird System] (https://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-grid-system.php) (English)
+- [Library vs. Framework vs. API] (https://softwareengineering.stackexchange.com/questions/54451/library-vs-framework-vs-api) (English)
+- [10 popular CSS Frameworks](https://www.smartinfosys.net/blog/10-popular-css-frameworks-to-use-in-your-web-design/) (English)
